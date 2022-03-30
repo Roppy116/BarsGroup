@@ -41,7 +41,7 @@ namespace Logger
     
     }
 
-    class logger
+    class Program
     {
         static void Main(string[] args)
         {

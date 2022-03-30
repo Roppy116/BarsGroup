@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ильназ\\VScode\\Logger\\Logger.csproj": {}
+    "D:\\Ильназ\\VScode\\Logger\\Collection\\Collection.csproj": {}
   },
   "projects": {
-    "D:\\Ильназ\\VScode\\Logger\\Logger.csproj": {
+    "D:\\Ильназ\\VScode\\Logger\\Collection\\Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ильназ\\VScode\\Logger\\Logger.csproj",
-        "projectName": "Logger",
-        "projectPath": "D:\\Ильназ\\VScode\\Logger\\Logger.csproj",
+        "projectUniqueName": "D:\\Ильназ\\VScode\\Logger\\Collection\\Collection.csproj",
+        "projectName": "Collection",
+        "projectPath": "D:\\Ильназ\\VScode\\Logger\\Collection\\Collection.csproj",
         "packagesPath": "C:\\Users\\Ilnaz\\.nuget\\packages\\",
-        "outputPath": "D:\\Ильназ\\VScode\\Logger\\obj\\",
+        "outputPath": "D:\\Ильназ\\VScode\\Logger\\Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ilnaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
